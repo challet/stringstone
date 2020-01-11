@@ -1,0 +1,24 @@
+{
+  "name": "stringstone",
+  "version": "0.1.0",
+  "description": "Adds character marks at recurrent position. Helps to visualize parts of an hexadecimal or a binary string.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/challet/stringstone.git"
+  },
+  "keywords": [
+    "string",
+    "formatting",
+    "hexa"
+  ],
+  "author": "challet",
+  "license": "AGPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/challet/stringstone/issues"
+  },
+  "homepage": "https://github.com/challet/stringstone#readme"
+}
